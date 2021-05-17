@@ -1,0 +1,10 @@
+C:\Users\8jxin\source\repos\GithubTest\GithubTest\bin\Debug\GithubTest.exe.config
+C:\Users\8jxin\source\repos\GithubTest\GithubTest\bin\Debug\GithubTest.exe
+C:\Users\8jxin\source\repos\GithubTest\GithubTest\bin\Debug\GithubTest.pdb
+C:\Users\8jxin\source\repos\GithubTest\GithubTest\obj\Debug\GithubTest.csprojAssemblyReference.cache
+C:\Users\8jxin\source\repos\GithubTest\GithubTest\obj\Debug\GithubTest.Form1.resources
+C:\Users\8jxin\source\repos\GithubTest\GithubTest\obj\Debug\GithubTest.Properties.Resources.resources
+C:\Users\8jxin\source\repos\GithubTest\GithubTest\obj\Debug\GithubTest.csproj.GenerateResource.cache
+C:\Users\8jxin\source\repos\GithubTest\GithubTest\obj\Debug\GithubTest.csproj.CoreCompileInputs.cache
+C:\Users\8jxin\source\repos\GithubTest\GithubTest\obj\Debug\GithubTest.exe
+C:\Users\8jxin\source\repos\GithubTest\GithubTest\obj\Debug\GithubTest.pdb
